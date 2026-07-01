@@ -1,0 +1,6 @@
+{
+  "name": "Académie de Musique",
+  "description": "Une plateforme complète de formation musicale en ligne pour apprendre à votre rythme avec les meilleurs mentors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
